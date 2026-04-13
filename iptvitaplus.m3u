@@ -48,7 +48,7 @@ https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Rai 4" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Iris" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
